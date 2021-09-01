@@ -2,6 +2,7 @@ import firebase from 'firebase/app';
 
 const firebaseConfig = {
   apiKey: 'AIzaSyA5elnRZVJ4WI2TnUNylP4LmLcAJhtaQ7s',
+  databaseURL: 'https://meal-prep-vue-7aa82-default-rtdb.asia-southeast1.firebasedatabase.app/',
   authDomain: 'meal-prep-vue-7aa82.firebaseapp.com',
   projectId: 'meal-prep-vue-7aa82',
   storageBucket: 'meal-prep-vue-7aa82.appspot.com',
